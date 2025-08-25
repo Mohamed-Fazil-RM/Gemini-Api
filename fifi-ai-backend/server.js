@@ -7,7 +7,7 @@ const cors = require('cors');
 
 // 2. Configure API Key
 // WARNING: Storing your API key directly in the code is not secure.
-const GEMINI_API_KEY = "AIzaSyDcb1i4WPHCoDqgtU-oP7QezxPzaF9tako";
+const GEMINI_API_KEY = "";
 
 // 3. Initialize Express app and middleware
 const app = express();
